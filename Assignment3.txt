@@ -1,0 +1,12 @@
+1. When you do not want to perform the sum command again and again, you use autosum.
+2.  "Alt"+"="
+3.Open Excel and then click on File.
+Go to Options and then select Formulas.
+Look for Error checking rules and uncheck Formulas which omit cells in a region.
+Click OK.
+
+4.Shift+Up and Shift+Down
+
+5. Alt+OCW : Changes column width
+
+6.It provides with Inserting cell of rows or columns wherever we want
