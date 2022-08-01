@@ -1,0 +1,27 @@
+1. There are 5 types of conditional formatting visaualizations available:
+a) Background color
+b) Foreground Color
+c) Data Bars
+d) Icons
+e) Values
+
+2. a) Select one or more cells to which you would like to add borders
+b) Open the Format Cells dialog box by doing one of the following:
+
+-> Click the down arrow next to the borders button, and then click "More Borders" at 
+bottom of the drop down list
+->Right Click the selected cells and choose "Format Cells" from the context menu
+-> Press Ctrl+1
+->In the Format Cells dialog box, switch to the Border tab and choose the line style and color first. 
+And then, either use Presets to add the outside or inside borders or construct the desired border by selecting individual elements such as border top, 
+bottom, right or left.The preview diagram will reflect the changes immediately.
+-> When done, click OK.
+
+3.
+->Select the cells that you want to format and then, in the Number group on the Home tab,
+ click the down arrow in the Number Format box.
+->Choose either Currency or Accounting.
+
+4. a) ALT H+M+M : Mearge 
+
+5. = Text(Value,format_text)
