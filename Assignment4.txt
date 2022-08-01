@@ -1,0 +1,12 @@
+1. In the HOME menu
+2. Excel will hide it.
+3. Yes, to make sure it more readble and the data gets wrapped 
+properly.
+4. Ctrl+Shift+9 : Unhides the row
+5.Ctrl+9: hides the row containing blank space
+6.
+a) Select the range you want to hide duplicates.
+b) Then click on Conditional Formatting> Highlight Cell Rules> Duplicate Values under HOME Tab
+c)In the Duplicate Values dialog box, select Custom Format in the values with drop-down list, and then click the OK button.
+d) In the Format Cells dialog box, go to the Font tab, and in the Color drop-down list, choose a font color which matches the background color of your selected range cell. And finally click the OK button. See screenshot:
+e) When it returns to the Duplicate Values dialog box, click the OK button.
