@@ -1,0 +1,14 @@
+1. $ sign converts an relative reference to an absolute reference
+2. By using the dollar sign($) before the row or column 
+
+Eg: =F9/ $ F $9
+
+3. It follows the BODMAS principle Bracket,Division, Multiplication, Addition and Subtraction
+4. SUM, AVERAGE, PERCENTAGE,MIN, MAX
+ 
+Ex: =Min(B4:B8), =Max(B4:B8)
+
+5. The SUBTOTAL function ignores any rows that are not included in the result of a filter, 
+no matter which function_num value you use.The SUBTOTAL function is designed for columns of data, or vertical ranges.
+
+6. =VLOOKUP(lookup value, range containing the lookup value, the column number in the range containing the return value, Approximate match (TRUE) or Exact match (FALSE)).
