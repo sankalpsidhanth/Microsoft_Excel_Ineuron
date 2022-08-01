@@ -1,0 +1,17 @@
+1. Cells are the boxes you see in the grid of an excel worksheet.
+2. By hiding your rows or colunns and unchecking the markings.
+3. Select the whole workspace, click ctrl+X and go to another sheer and press ctrl+V
+4. Ctrl+N
+5. These are the following things we can notice after opening an excell window:
+
+a) Title bar
+b) Menu Bar
+c)Column Headings
+d) Row Headings
+e) Name Box
+f)Formula Bar
+g) Cell
+h) Navigation buttons and sheet tabs
+
+6. When we want to perform the same calculation in an row or column and do not wish to 
+write the whole formulae again we perform relative cell reference.
